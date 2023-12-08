@@ -1,0 +1,86 @@
+h1 {
+  text-align: center;
+  color: #ffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: #113f67;
+}
+h2 {
+  text-align: center;
+  color: #38598b;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+p {
+  line-height: 1.5;
+  text-align: left;
+  color: #113f67;
+  font-size: 13px;
+}
+body {
+  width: 50%;
+  margin: 60px auto;
+
+  border-radius: 25px;
+}
+
+.chocchip {
+  text-align: center;
+
+  margin: 10px auto;
+  border: 1px solid #e7eaf6;
+  box-shadow: #38598b;
+  width: 80%;
+  margin: 60px auto;
+  border-radius: 25px;
+  padding: 15px 20px 15px 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+img {
+  margin: 0 auto;
+  display: block;
+  border-radius: 25px;
+
+  max-width: 90%;
+}
+a {
+  text-decoration: none;
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+  color: #113f67;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-align: center;
+}
+
+.link {
+  color: #113f67;
+}
+button {
+  border-radius: 25px;
+  margin: 0 auto;
+  display: block;
+  background-color: #fff;
+  border: 1px solid #113f67;
+  color: #113f67;
+  font-size: 16px;
+  font-weight: bolder;
+  line-height: 22px;
+  padding: 16px 24px;
+  text-decoration: none;
+  transition: all 200ms ease;
+  box-shadow: 5px 5px 5px #a2a8d3;
+}
+
+button:hover {
+  color: #fff;
+  background: #113f67;
+}
